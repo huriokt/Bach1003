@@ -1,0 +1,17 @@
+public class PC_HIZLANDIRMA {    PC HIZLANDIRMA
+
+1.AŞAMA
+    WİN+R  çıkan yere %temp%   yazıp açılan sayfada temp klasörünün içini temizleyip sili yoruz
+
+2. AŞAMA
+    WİN +R  çıkan yere cleanmgr yazıp çıkan sayfada her yeri işaretleyip siliyoruz hepsini.
+
+            3.AŞAMA
+
+    CTRL+SHIFT+ESC basıp çıkan sayfada başlangıç yerine gelip PC ilk açıldığında açılan ne kadar program varsa devre dışı bırakıyoruz kapatıyoruz
+
+4. AŞAMA
+    WİN+R yazıp msconfig yazıp açılan yere önyüklemeye gelip gelişmiş secenekleri açıyoruz.İşlem sayısını açıp en fazla olanı seçip kapatıyoruz....
+
+
+}
